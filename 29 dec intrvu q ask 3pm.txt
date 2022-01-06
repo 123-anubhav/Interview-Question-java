@@ -1,0 +1,26 @@
+class{
+	String a="a,1,b,2,c,3";
+}
+output- a-1,b-2,c-3
+write logics.
+
+
+select * from employee groupby designation;
+
+3rd highest salary-
+	select  max(sal) from emp<select  max(sal) from emp<select  max(sal) from emp;
+
+
+what is interceptor ?
+jsp
+xl file how read and write ?
+synchronized
+hashmap internal working
+hashset vs hashmap
+how to sort a hashmap
+spring structure or flow explain?
+
+----------------------------------------------------------------------------------------------------
+
+cloneable and runnable
+
